@@ -1,21 +1,21 @@
 {
     "info": [
         {
-            "Full_name": "Christ Niuman L. Fantonial",
+            "Full_name": "Constancio Xeus lll . Caruz",
             "age": 22,
             "favorite_qoutes":  
                [
-                "Nothing is impossible"
+                "GOD is good"
             ]
                
             
         },
         {
-            "Full_name": "Christ Niuman Fantonial",
+            "Full_name": "Caruz",
             "age": 23,
             "favorite_qoutes": 
               [
-                "impossible"
+                "Devil is Bad"
             ]
             
         }
@@ -24,12 +24,12 @@
         {
             "section": "BSIT-3A",
             "code": "T221",
-            "email": "1901104569@student.buksu.edu.ph"
+            "email": "1901103343@student.buksu.edu.ph"
         },
         {
-            "section": "BSIT-3B",
-            "code": "T222",
-            "email": "niuman@student.buksu.edu.ph"
+            "section": "BSIT-3D",
+            "code": "T111",
+            "email": "caruz@student.buksu.edu.ph"
         }
     ]
 }

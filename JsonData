@@ -1,0 +1,35 @@
+{
+    "info": [
+        {
+            "Full_name": "Christ Niuman L. Fantonial",
+            "age": 22,
+            "favorite_qoutes":  
+               [
+                "Nothing is impossible"
+            ]
+               
+            
+        },
+        {
+            "Full_name": "Christ Niuman Fantonial",
+            "age": 23,
+            "favorite_qoutes": 
+              [
+                "impossible"
+            ]
+            
+        }
+    ],
+    "info1": [
+        {
+            "section": "BSIT-3A",
+            "code": "T221",
+            "email": "1901104569@student.buksu.edu.ph"
+        },
+        {
+            "section": "BSIT-3B",
+            "code": "T222",
+            "email": "niuman@student.buksu.edu.ph"
+        }
+    ]
+}
